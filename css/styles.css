@@ -1,3 +1,7 @@
+:root {
+  --color-cloud: #F4F4FD;
+}
+
 html {
   font-size: 16px;
 }
@@ -130,4 +134,12 @@ ul {
 
 .team__item {
   background-color: #fff;
+}
+
+.footer {}
+
+.footer__promote {
+  --color-footer-text: var(--color-cloud);
+
+  color: var(--color-footer-text);
 }
