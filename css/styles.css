@@ -59,12 +59,6 @@ button {
   cursor: pointer;
 }
 
-button:hover,
-button:focus,
-button:active {
-  background-color: #404BBF;
-}
-
 address {
   font-style: normal;
 }
@@ -116,4 +110,18 @@ ul {
 .hero__action:focus,
 .hero__action:active {
   background-color: #404BBF;
+}
+
+.section {}
+
+.section--background {
+  background-color: #F4F4FD;
+}
+
+.section__title {
+  text-align: center;
+}
+
+.team {
+  background-color: #fff;
 }
