@@ -64,6 +64,10 @@ address {
   font-style: normal;
 }
 
+ul {
+  list-style: none;
+}
+
 .logo {
   font-weight: 700;
   font-size: 1.125rem;
@@ -87,4 +91,24 @@ address {
 .navigation__link {
   font-weight: 500;
   color: #2e2f42;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero__title {
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero__action {
+  line-height: 1.5;
+  letter-spacing: .04em
+}
+
+.hero__action:hover,
+.hero__action:focus,
+.hero__action:active {
+  background-color: #404BBF;
 }
