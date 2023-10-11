@@ -116,13 +116,13 @@ ul {
 .hero__action {
   font-weight: 500;
   color: #fff;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
 .hero__action:hover,
 .hero__action:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .section {}
