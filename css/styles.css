@@ -135,6 +135,8 @@ ul {
   text-align: center;
 }
 
+.section__title--hidden {}
+
 .team {}
 
 .team__item {
