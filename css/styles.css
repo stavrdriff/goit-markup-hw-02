@@ -56,3 +56,17 @@ button {
 button:hover {
   background-color: #404BBF;
 }
+
+.logo {
+  font-weight: 700;
+  font-size: 1.125rem;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.17;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo__span {
+  color: #2e2f42;
+}
