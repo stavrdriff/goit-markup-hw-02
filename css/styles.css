@@ -41,7 +41,8 @@ h3 {
 
 a {
   text-decoration: none;
-  letter-spacing: .02em
+  letter-spacing: .02em;
+  color: #434455;
 }
 
 a,
