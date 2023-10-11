@@ -52,13 +52,6 @@ a:focus {
   color: #404BBF;
 }
 
-button {
-  font-weight: 500;
-  color: #fff;
-  background-color: #4D5AE5;
-  cursor: pointer;
-}
-
 address {
   font-style: normal;
 }
@@ -106,6 +99,13 @@ ul {
   letter-spacing: .04em
 }
 
+.hero__action {
+  font-weight: 500;
+  color: #fff;
+  background-color: #4D5AE5;
+  cursor: pointer;
+}
+
 .hero__action:hover,
 .hero__action:focus,
 .hero__action:active {
@@ -122,6 +122,8 @@ ul {
   text-align: center;
 }
 
-.team {
+.team {}
+
+.team__item {
   background-color: #fff;
 }
