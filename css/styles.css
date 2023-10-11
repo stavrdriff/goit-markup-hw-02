@@ -3,10 +3,12 @@ html {
 }
 
 body {
+  font-weight: 400;
   font-size: inherit;
   line-height: 1.5;
-  font-family: 'Roboto', system-ui, sans-serif;
+  font-family: 'Roboto', sans-serif, system-ui;
   color: #434455;
+  background-color: #fff;
 }
 
 h1 {
