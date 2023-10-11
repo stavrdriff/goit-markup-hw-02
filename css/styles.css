@@ -51,7 +51,6 @@ button {
 }
 
 a:hover,
-a:active,
 a:focus {
   color: #404BBF;
 }
@@ -115,8 +114,7 @@ ul {
 }
 
 .hero__action:hover,
-.hero__action:focus,
-.hero__action:active {
+.hero__action:focus {
   background-color: #404BBF;
 }
 
