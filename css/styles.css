@@ -136,7 +136,9 @@ ul {
   background-color: #fff;
 }
 
-.footer {}
+.footer {
+  background-color: #2e2f42;
+}
 
 .footer__promote {
   --color-footer-text: var(--color-cloud);
