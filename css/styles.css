@@ -44,7 +44,8 @@ button {
 }
 
 a:hover,
-a:active {
+a:active,
+a:focus {
   color: #404BBF;
 }
 
