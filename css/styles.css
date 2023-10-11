@@ -74,6 +74,10 @@ ul {
   color: #2e2f42;
 }
 
+.logo--white .logo__span {
+  color: #f4f4fd;
+}
+
 .navigation {}
 
 .navigation__list {}
