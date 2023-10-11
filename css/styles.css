@@ -46,7 +46,6 @@ a {
 
 a,
 button {
-  color: inherit;
   transition: background-color .25s ease-in;
 }
 
